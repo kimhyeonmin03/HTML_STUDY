@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "KING";
+    src: url("./BMJUA_ttf.ttf")
+}
+
+
+
+body {
+    background-color: #15b2da;
+}
+
+p{
+    font-family: "KING";
+    font-size: 35px;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    
+}
